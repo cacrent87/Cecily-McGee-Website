@@ -1,0 +1,125 @@
+
+.top-container {
+    background-color: #F5E8B7;
+    position: relative;
+    padding-top: 100px;
+    display: block;
+}
+
+body {
+    color: #CD5C08;
+    margin: 0;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+.sunset{
+    width: 100%;
+}
+
+.Cecily{
+    width: 200px;
+}
+
+h1{
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    font-size: 6rem;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+.pro{
+    color: rgb(6, 176, 159);
+}
+
+.about-me{
+    color: #6A9C89;
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.intro {
+    width: 30%;
+    margin: auto;
+    color: black;
+}
+
+.skills{
+    color: #6A9C89;
+}
+
+.projects{
+    padding: 35px;
+}
+
+.parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+
+.skills .parent .coding p{
+    color: black;
+    margin: 0;
+    text-align: left;
+}
+
+.coding > h3 > p{
+    text-align: left;
+    width: 30%;
+    margin: auto;
+}
+
+.code-img{
+    float: left;
+    width: 80%;
+    margin-left: 30px;
+}
+
+.sew-img{
+    width: 80%;
+    float: left;
+    margin-left: 30px;
+
+}
+
+.pin-needle p{
+    color: black;
+    width: 30%;
+    margin-bottom: 30px;
+}
+
+.contact-me > p{
+    color: black;
+}
+
+button{
+    background-color: #f37310;
+    border-radius: 0.5rem;
+    border: none;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.information{
+    margin-top: 10px;
+}
+
+a{
+    color: white;
+}
+
+footer{
+    background-color: #F5E8B7;
+    padding: 10px;
+}
+
